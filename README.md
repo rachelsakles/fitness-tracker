@@ -10,7 +10,8 @@
   You first need to run npm install to install all the dependencies, then start the server by running node server.js. My app is set to localhost 8080.
   ## Usage
   Once the app is running, it will show you your most recent workout on the homepage. You can also click on the dashboard to view the charts. You can also add a new workout, by clicking the new workout button.
-  ## Example
+  ## Example 
+  Heroku URL: https://fierce-hamlet-60836.herokuapp.com/?id=5f71704b46975c0017f22f3a
   ![fitness-tracker](models/assets/fitnesstracker.png)
    
   
